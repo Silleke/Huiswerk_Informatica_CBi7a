@@ -1,0 +1,52 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="95DB4204-A6D8-338B-066F-5C3F50719873" name="Exon">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:46:53 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="exon_id" id="4A030B64-E64B-D095-5CFD-D380AAF31337">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:59:25 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="start" id="9E1F17F9-70B1-C432-C1F2-241B87B93DF3">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:59:35 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="eind" id="CEF28E2B-C0EC-EC1E-5B54-16B575A39F67">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:59:39 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

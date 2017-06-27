@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_3" directorySegmentName="seg_0" id="1901B910-C1EA-8040-0A4F-28ECBF172EA1">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 15:03:29 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>44C387FE-B1EC-5697-CDB5-3C259A45C001</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>C5D1DF0F-16D6-B68C-1E0B-C3C5D72A8289</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

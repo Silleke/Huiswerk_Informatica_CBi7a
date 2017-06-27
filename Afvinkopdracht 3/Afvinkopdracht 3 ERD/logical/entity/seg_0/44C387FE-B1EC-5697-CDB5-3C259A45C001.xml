@@ -1,0 +1,52 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="44C387FE-B1EC-5697-CDB5-3C259A45C001" name="Gen">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:28:19 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="gen_id" id="3F4301CD-FCA9-E2FC-8B11-27434D0AE3DD">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:28:37 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="start" id="EED1254C-4762-D7EC-4CA7-802869A05283">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:57:48 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="eind" id="F1955EC2-BFEF-20B6-AE35-F9410BA9A52A">
+<createdBy>sille</createdBy>
+<createdTime>2017-06-27 14:58:02 UTC</createdTime>
+<ownerDesignName>Afvinkopdracht 3 ERD</ownerDesignName>
+<engineerTo>
+<item key="5CF32201-16C9-B0FC-4429-1E7904281FBA" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>
